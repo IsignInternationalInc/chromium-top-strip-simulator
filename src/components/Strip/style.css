@@ -1,0 +1,36 @@
+.strip {
+  height: 40px;
+  width: 100%;
+  border: 1px solid #E1E9F4;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+.strip-navigation-container {
+  margin-left: 18px;
+  margin-right: 9px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+/* .strip-navigation-container:last-child {
+  margin-right: 0px;
+} */
+
+.strip-navigation-container > * {
+  padding: 8px;
+  margin-right: 7px;
+}
+
+.strip-icon {
+  cursor: pointer;
+}
+
+.strip-icon:hover {
+  background: #E1E9F4;
+  border-radius: 2px  ;
+}
