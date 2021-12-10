@@ -18,7 +18,9 @@ export default function Strip() {
         <Icon src={require("../../icons/Reading list 16px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/QR Code 16px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/Customize icon 16px.svg").default} className="strip-icon"/>
-
+        <Icon src={require("../../icons/Customize icon 16px_v.1.svg").default} className="strip-icon"/>
+        <Icon src={require("../../icons/Customize icon 16px_v.2.svg").default} className="strip-icon"/>
+        <Icon src={require("../../icons/Customize icon 16px_v.3.svg").default} className="strip-icon"/>
       </div>
     </div>
   )
