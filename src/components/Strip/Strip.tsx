@@ -9,6 +9,7 @@ export default function Strip() {
       <div className="strip-navigation-container">
         <Icon src={require("../../icons/arrow left 16px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/arrow right 16px.svg").default} className="strip-icon"/>
+        <Icon src={require("../../icons/Refresh 16 px.08e3919dv1.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/Refresh 16 px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/Home 16px.svg").default} className="strip-icon"/>
       </div>
@@ -17,10 +18,7 @@ export default function Strip() {
         <Icon src={require("../../icons/Snapshot 16px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/Add to reading list 16 px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/QR Code 16px.svg").default} className="strip-icon"/>
-        <Icon src={require("../../icons/Customize icon 16px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/Customize icon 16px_v.1.svg").default} className="strip-icon"/>
-        <Icon src={require("../../icons/Customize icon 16px_v.2.svg").default} className="strip-icon"/>
-        <Icon src={require("../../icons/Customize icon 16px_v.3.svg").default} className="strip-icon"/>
       </div>
     </div>
   )
