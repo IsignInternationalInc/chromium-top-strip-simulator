@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1855"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="Refresh 16 px.svg"
+   sodipodi:docname="Refresh 16 px_v.2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:document-units="px"
      showgrid="true"
      units="px"
-     inkscape:zoom="63.999996"
-     inkscape:cx="11.570313"
-     inkscape:cy="5.2890628"
+     inkscape:zoom="31.999998"
+     inkscape:cx="4.8906253"
+     inkscape:cy="6.0156254"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -94,23 +94,23 @@
      id="g1518"
      transform="translate(4.15802e-4,4.15802e-4)">
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;stroke-opacity:1"
        id="path16987"
        sodipodi:type="arc"
-       sodipodi:cx="7.9996099"
+       sodipodi:cx="7.9995842"
        sodipodi:cy="7.9995842"
-       sodipodi:rx="7.5000257"
-       sodipodi:ry="7.5000257"
+       sodipodi:rx="7"
+       sodipodi:ry="7"
        sodipodi:start="0"
-       sodipodi:end="5.7595865"
+       sodipodi:end="5.7919098"
        sodipodi:arc-type="arc"
        sodipodi:open="true"
-       d="M 15.499636,7.9995842 A 7.5000257,7.5000257 0 0 1 8.9785598,15.435446 7.5000257,7.5000257 0 0 1 0.75514141,9.9407338 7.5000257,7.5000257 0 0 1 5.1294742,1.070464 7.5000257,7.5000257 0 0 1 14.494823,4.2495711" />
+       d="M 14.999584,7.9995842 A 7,7 0 0 1 8.8571565,14.946855 7,7 0 0 1 1.2097071,9.7018091 7,7 0 0 1 5.4783517,1.4693938 7,7 0 0 1 14.171707,4.6973277" />
     <path
        id="path2477"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="path2477"
-       d="M 14.49961,0.4995842 V 4.999584 h -3.5"
+       d="m 14.499584,0.9995842 v 4.5 h -3.5"
        sodipodi:nodetypes="ccc" />
   </g>
 </svg>
