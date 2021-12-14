@@ -12,6 +12,7 @@ export default function Strip() {
         <Icon src={require("../../icons/Refresh 16 px.08e3919dv1.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/Refresh 16 px.svg").default} className="strip-icon"/>
         <Icon src={require("../../icons/Home 16px.svg").default} className="strip-icon"/>
+        <Icon src={require("../../icons/Home 16px_v.3.svg").default} className="strip-icon"/>
       </div>
       <SearchBar />
       <div className="strip-navigation-container">
